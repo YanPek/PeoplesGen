@@ -1,6 +1,7 @@
 # PeoplesGen
 People generator
 Generate peoples like this:
+
 [1]
 
 Name: Мирон
